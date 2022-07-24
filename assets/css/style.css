@@ -685,7 +685,8 @@ img {
 	display: block;
 	text-align: center;
 	/* padding: 22px 0px;*/
-		    padding: 10px 0px;
+	width: 150px;
+	padding: 10px 0px;
 }
 .main-header .nav-outer {
 	position: relative;
