@@ -12,7 +12,7 @@
 
 ## Live Demo (if available)
 
-https://emmykage.github.io/Capstone-Project/
+[Visit site](https://emmykage.github.io/AG-City/)
 
 
 ## Getting Started
