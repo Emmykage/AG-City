@@ -691,7 +691,14 @@ img {
 	position: relative;
 	z-index: 1;
 	float: right;
-}
+	}
+@media only screen and (max-width: 1678px) {
+	.main-header .nav-outer {
+	  /* background-color: blue; */
+	  float: left;
+	  margin-left: 15rem;
+	}
+  }
 .navbar-right-info {
 	float: right;
 	display: -webkit-box;
