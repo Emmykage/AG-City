@@ -11345,6 +11345,9 @@ img {
 	position: relative;
 	overflow: hidden;
 	border-radius: 6px;
+	width: 250px;
+	height: 250px;
+	/* background-color: green; */
 }
 .project-block-five .image img {
 	width: 100%;
